@@ -25,14 +25,14 @@ This is because a user is created specifically for the database queried by the J
 3. The webpage can be retrieved at http://localhost:8080/LoginStruts2/index.action upon setting up the server. 
 
 ## References
-https://struts.apache.org/getting-started/index.html
-http://websystique.com/maven/create-a-maven-web-project-with-eclipse/
-https://www.codejava.net/coding/how-to-code-login-and-logout-with-java-servlet-jsp-and-mysql
-https://struts.apache.org/maven/struts2-core/apidocs/com/opensymphony/xwork2/ActionSupport.html
-https://www.javatpoint.com/struts-2-registration-form-example
-https://www.programcreek.com/2010/03/struts-2-tutorials-sample-application-login-module/
-https://struts.apache.org/tag-developers/themes-and-templates.html
-https://www3.ntu.edu.sg/home/ehchua/programming/java/JSPByExample.html
-https://www.journaldev.com/2274/struts-2-action-error-action-message
-https://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
-https://stackoverflow.com/questions/6464592/how-to-align-entire-html-body-to-the-center/35047036
+1. https://struts.apache.org/getting-started/index.html
+2. http://websystique.com/maven/create-a-maven-web-project-with-eclipse/
+3. https://www.codejava.net/coding/how-to-code-login-and-logout-with-java-servlet-jsp-and-mysql
+4. https://struts.apache.org/maven/struts2-core/apidocs/com/opensymphony/xwork2/ActionSupport.html
+5. https://www.javatpoint.com/struts-2-registration-form-example
+6. https://www.programcreek.com/2010/03/struts-2-tutorials-sample-application-login-module/
+7. https://struts.apache.org/tag-developers/themes-and-templates.html
+8. https://www3.ntu.edu.sg/home/ehchua/programming/java/JSPByExample.html
+9. https://www.journaldev.com/2274/struts-2-action-error-action-message
+10. https://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+11. https://stackoverflow.com/questions/6464592/how-to-align-entire-html-body-to-the-center/35047036
