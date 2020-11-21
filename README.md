@@ -30,7 +30,7 @@ Otherwise, the user MUST run the SQL script "cz3002sql.sql" with user accounts c
 1. https://struts.apache.org/getting-started/index.html
 2. http://websystique.com/maven/create-a-maven-web-project-with-eclipse/
 3. https://www.codejava.net/coding/how-to-code-login-and-logout-with-java-servlet-jsp-and-mysql
-4. https://struts.apache.org/maven/struts2-core/apidocs/com/opensymphony/xwork2/ActionSupport.html
+4. https://struts.apache.org/maven/struts2-core/apidocs/com/opensymphony/xwork2/
 5. https://www.javatpoint.com/struts-2-registration-form-example
 6. https://www.programcreek.com/2010/03/struts-2-tutorials-sample-application-login-module/
 7. https://struts.apache.org/tag-developers/themes-and-templates.html
